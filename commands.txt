@@ -14,3 +14,4 @@ git push -u origin master
 git status
 git log
 git log --oneline
+git clone https://github.com/vsbopi/devops_training.git
