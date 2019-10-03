@@ -1,0 +1,15 @@
+sudo su -
+sudo su - root
+sudo -i
+clear
+ls
+ll
+mkdir
+touch file1
+rm file1
+rm -r dir1
+rm -rf dir2
+cat /etc/os-release
+pwd
+nano myfile
+uname -a
