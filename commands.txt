@@ -1,0 +1,16 @@
+git config --global user.name "Vivek Sarswat"
+git config --global user.email "vsbopi@gmail.com"
+git status
+git init
+git status
+echo "# devops_training" >> README.md
+git add README.md
+git commit -m "first commit"
+git status
+git remote -v
+git remote add origin https://github.com/vsbopi/devops_training.git
+git remote -v
+git push -u origin master
+git status
+git log
+git log --oneline
