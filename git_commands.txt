@@ -15,3 +15,8 @@ git status
 git log
 git log --oneline
 git clone https://github.com/vsbopi/devops_training.git
+touch .gitignore
+Make entry of file you want to ignore
+git add .gitignore
+git commit -m "adding git ignore file"
+git push origin master
