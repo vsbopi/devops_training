@@ -20,3 +20,27 @@ Make entry of file you want to ignore
 git add .gitignore
 git commit -m "adding git ignore file"
 git push origin master
+git diff filename
+git deff --staged filename
+git rm filename
+git ls-files
+git rm --cached filename
+git reset --hard ******  -------Destructive command
+git branch
+git checkout -b b1 master -------creating b1 branch from master
+git merge [source] [destination]
+git merge b1 master
+git stash
+git stash list
+git show stash@{0}
+git stash pop stash@{0}
+git stash clear
+git statsh -p
+git stash show stash@{0}
+git stash drop stash@{0}
+git rebase master
+git remote add origin "https://github********"
+git push origin master
+git branch -d b1
+git push origin --delete b1
+
