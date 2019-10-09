@@ -1,0 +1,7 @@
+Continuous Development
+Continuous Testing
+Continuous Integration
+Continuous Deployment
+Continuous Monitoring
+
+It's a methodology.
